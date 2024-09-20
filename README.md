@@ -1,7 +1,10 @@
 # Getting Started with Create React App
 
+<<<<<<< HEAD
 new change
 
+=======
+>>>>>>> cde9cba468498d2b338d851db2ea50d3739ce59c
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
